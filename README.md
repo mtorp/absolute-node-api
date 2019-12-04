@@ -1,6 +1,6 @@
 # absolutecoin-node-api
 
-absolutecoin-node-api is an Express middleware plugin that easily exposes a URL structure for interfacing with a absoluted wallet.
+Absolutecoin Node API is an Express middleware plugin that easily exposes a URL structure for interfacing with a absoluted wallet.
 
 NB: The middleware is experimental at present. Certain JSON-RPC methods are not supported yet and/or experimental. These are methods with more complex parameters that do not fit easily into a query string:
 
